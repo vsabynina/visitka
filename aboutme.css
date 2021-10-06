@@ -7,9 +7,6 @@ body {
     flex-direction: column;
     font-family: 'Open Sans', sans-serif;
 }
-header {
-    display: block;
-}
 .header {
     text-align: center;
     padding: 20px 20px;
@@ -35,9 +32,6 @@ main {
     width: 100vw;
     margin-top: 100px;
 }
-aside {
-    display: block;
-}
 .aside__img {
     justify-content: flex-start;
     margin-left: 160px;
@@ -54,15 +48,11 @@ aside {
 .instagram {
     display: flex;
     align-items: center;
-    margin-bottom: 10px;
-    margin-top: 16px;
+    margin-top: 16px 0 10px;
 }
 .telegram {
     display: flex;
     align-items: center;
-}
-section {
-    display: block;
 }
 .main-section {
     padding: 0 160px 0 60px;
