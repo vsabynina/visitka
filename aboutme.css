@@ -48,7 +48,7 @@ main {
 .instagram {
     display: flex;
     align-items: center;
-    margin-top: 16px 0 10px;
+    margin: 16px 0 10px;
 }
 .telegram {
     display: flex;
